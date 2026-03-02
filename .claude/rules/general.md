@@ -1,6 +1,9 @@
 # General Project Rules
 <!-- DE: # Allgemeine Projektregeln -->
 
+## Language
+Always respond in **German (Deutsch)**. All skill outputs, explanations, file comments, and user-facing text must be in German.
+
 ## Feature Tracking
 <!-- DE: ## Feature-Verfolgung -->
 - All features are tracked in `features/INDEX.md` - read it before starting any work
