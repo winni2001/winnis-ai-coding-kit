@@ -31,6 +31,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# superbase MCP connetion settings
+.mcp.json
+
 # claude code personal settings
 .claude/settings.local.json
 

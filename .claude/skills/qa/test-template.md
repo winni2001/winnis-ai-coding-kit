@@ -1,6 +1,8 @@
 # QA Test Results Template
+<!-- DE: # QA-Testergebnisse-Vorlage -->
 
 Add this section to the END of the feature spec `/features/PROJ-X.md`:
+<!-- DE: Diesen Abschnitt am ENDE der Feature-Spezifikation `/features/PROJ-X.md` hinzufügen: -->
 
 ```markdown
 ---
@@ -54,3 +56,15 @@ Add this section to the END of the feature spec `/features/PROJ-X.md`:
 - **Production Ready:** YES / NO
 - **Recommendation:** [Deploy / Fix bugs first]
 ```
+<!-- DE:
+Übersetzung der Template-Felder:
+- QA-Testergebnisse
+- Getestet: JJJJ-MM-TT
+- App-URL: http://localhost:3000
+- Tester: QA-Ingenieur (KI)
+- Akzeptanzkriterien-Status
+- Grenzfall-Status
+- Sicherheitsprüfungsergebnisse: Authentifizierung, Autorisierung, Eingabevalidierung, Rate Limiting
+- Gefundene Fehler: Schweregrad, Reproduktionsschritte, Priorität
+- Zusammenfassung: Akzeptanzkriterien bestanden, Fehler gefunden, Sicherheit, Produktionsbereit, Empfehlung
+-->
